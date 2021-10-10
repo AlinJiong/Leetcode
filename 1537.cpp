@@ -15,6 +15,7 @@ public:
     {
         nums1.push_back(1);
         nums2.push_back(2);
+        return nums1[0];
     }
 };
 // @lc code=end
